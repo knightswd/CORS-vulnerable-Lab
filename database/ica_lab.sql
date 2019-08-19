@@ -22,7 +22,9 @@ SET time_zone = "+00:00";
 -- Database: `ica_lab`
 --
 
--- --------------------------------------------------------
+CREATE DATABASE ica_lab;
+
+use ica_lab
 
 --
 -- Table structure for table `auth`
